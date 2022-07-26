@@ -1,0 +1,5 @@
+[INFO ] 2022-07-15 15:09:43.844 [main] LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+[INFO ] 2022-07-15 15:09:43.887 [main] Version - HHH000412: Hibernate ORM core version 5.6.8.Final
+[INFO ] 2022-07-15 15:09:44.041 [main] Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+[INFO ] 2022-07-15 15:09:44.429 [main] Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+[INFO ] 2022-07-15 15:09:45.007 [main] JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
